@@ -83,7 +83,7 @@ public class EnemyController : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.CompareTag("Espada"))
+        if (collision.CompareTag("Cuchiillo"))
         {
             Vector2 direccionDanio = new Vector2(collision.gameObject.transform.position.x, 0);
 

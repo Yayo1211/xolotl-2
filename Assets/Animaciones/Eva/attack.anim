@@ -32,7 +32,7 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 0.25
-        value: 1
+        value: 0
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -68,7 +68,7 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 1.25
-        value: 1
+        value: 0
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -97,7 +97,7 @@ AnimationClip:
     - time: 1
       value: {fileID: -2463507023887884107, guid: caddcf7e2a82f1140804d9a0608be388, type: 3}
     - time: 1.25
-      value: {fileID: 2321921080444016147, guid: caddcf7e2a82f1140804d9a0608be388, type: 3}
+      value: {fileID: -2463507023887884107, guid: caddcf7e2a82f1140804d9a0608be388, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -134,7 +134,7 @@ AnimationClip:
     - {fileID: 2321921080444016147, guid: caddcf7e2a82f1140804d9a0608be388, type: 3}
     - {fileID: 5542012669605059138, guid: caddcf7e2a82f1140804d9a0608be388, type: 3}
     - {fileID: -2463507023887884107, guid: caddcf7e2a82f1140804d9a0608be388, type: 3}
-    - {fileID: 2321921080444016147, guid: caddcf7e2a82f1140804d9a0608be388, type: 3}
+    - {fileID: -2463507023887884107, guid: caddcf7e2a82f1140804d9a0608be388, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
@@ -171,7 +171,7 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 0.25
-        value: 1
+        value: 0
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -207,7 +207,7 @@ AnimationClip:
         outWeight: 0
       - serializedVersion: 3
         time: 1.25
-        value: 1
+        value: 0
         inSlope: Infinity
         outSlope: Infinity
         tangentMode: 103
@@ -227,7 +227,7 @@ AnimationClip:
   m_HasMotionFloatCurves: 0
   m_Events:
   - time: 1.25
-    functionName: DesactivaDanio
+    functionName: DesactivaAtaque
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0

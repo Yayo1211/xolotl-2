@@ -1,22 +1,10 @@
 fileFormatVersion: 2
-guid: 01bc3122551b1bb4d985370534b3d3e4
+guid: c4320741cf4ccd94983a169957b7ae3b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7575178514209026060
-    second: finwalk_0
-  - first:
-      213: -9207575909288761868
-    second: finwalk_1
-  - first:
-      213: -1073719264035000297
-    second: finwalk_2
-  - first:
-      213: -560888388581157220
-    second: finwalk_3
-  - first:
-      213: -4594190508752398522
-    second: finwalk_4
+      213: -6855218837941648915
+    second: puerta_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -49,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -63,9 +51,9 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 256
+  spritePixelsToUnits: 300
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spriteGenerateFallbackPhysicsShape: 0
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
@@ -112,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: finwalk_0
+      name: puerta_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 256
-        height: 256
+        width: 300
+        height: 300
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -127,96 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4ff466eb64f8fd690800000000000000
-      internalID: -7575178514209026060
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: finwalk_1
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 0
-        width: 256
-        height: 256
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4f5266c8e7e183080800000000000000
-      internalID: -9207575909288761868
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: finwalk_2
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 0
-        width: 256
-        height: 256
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 71033b6a4026911f0800000000000000
-      internalID: -1073719264035000297
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: finwalk_3
-      rect:
-        serializedVersion: 2
-        x: 768
-        y: 0
-        width: 256
-        height: 256
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c969af77bf25738f0800000000000000
-      internalID: -560888388581157220
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: finwalk_4
-      rect:
-        serializedVersion: 2
-        x: 1024
-        y: 0
-        width: 256
-        height: 256
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6479757c2182e30c0800000000000000
-      internalID: -4594190508752398522
+      spriteID: de10ce299ce5dd0a0800000000000000
+      internalID: -6855218837941648915
       vertices: []
       indices: 
       edges: []
@@ -225,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 06eb938dc7f4b5f4dab84ce8a665fa90
+    spriteID: 538aeb369db559042aa9711c529b5062
     internalID: 0
     vertices: []
     indices: 
@@ -235,11 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      finwalk_0: -7575178514209026060
-      finwalk_1: -9207575909288761868
-      finwalk_2: -1073719264035000297
-      finwalk_3: -560888388581157220
-      finwalk_4: -4594190508752398522
+      puerta_0: -6855218837941648915
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

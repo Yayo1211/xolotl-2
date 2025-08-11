@@ -117,7 +117,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 256
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -684,7 +684,30 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ojo caminar_0: -8914629485624723101
+      Ojo caminar_1: 3685246962311419950
+      Ojo caminar_10: 1531047282662689533
+      Ojo caminar_11: -5682864635053178000
+      Ojo caminar_12: 7719602357114763923
+      Ojo caminar_13: -7918622704139900234
+      Ojo caminar_14: -6874196400412436226
+      Ojo caminar_15: 5982703712555936629
+      Ojo caminar_16: 4939684047861768804
+      Ojo caminar_17: 2709700952840015231
+      Ojo caminar_18: -137115679479334127
+      Ojo caminar_19: -1762421650552912372
+      Ojo caminar_2: 4235105103671994525
+      Ojo caminar_20: 2280847035074774274
+      Ojo caminar_21: 3283347857849493339
+      Ojo caminar_22: -5508697485530996820
+      Ojo caminar_3: 1670768349009367145
+      Ojo caminar_4: -4324126333678836637
+      Ojo caminar_5: 1635984440359205249
+      Ojo caminar_6: 3993287927404677334
+      Ojo caminar_7: 212741636600727992
+      Ojo caminar_8: 8413759729199818640
+      Ojo caminar_9: -3540032431807423128
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -7,6 +7,7 @@ TagManager:
   - Cuchiillo
   - Enemigo
   - jefe
+  - Fondo
   layers:
   - Default
   - TransparentFX
@@ -14,8 +15,8 @@ TagManager:
   - suelo
   - Water
   - UI
-  - 
-  - 
+  - Fondo
+  - suelo 2
   - 
   - 
   - 
