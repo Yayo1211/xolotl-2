@@ -8,6 +8,8 @@ TagManager:
   - Enemigo
   - jefe
   - Fondo
+  - jefe2
+  - Fondo2
   layers:
   - Default
   - TransparentFX
