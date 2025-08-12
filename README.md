@@ -47,10 +47,9 @@ La jugabilidad es similar a otros videojuegos de plataforma, los controles son s
 Controles:
 ← - Caminar hacia atras 
 → - Caminar hacia enfrente 
-↓ - Agacharse 
-C - Recoger item
-Z - Disparar 
-X - Lanzar granada  
+Z - Golpear
+Space - saltar
+
 
 3. Mundo del juego 
 
@@ -62,7 +61,7 @@ Nivel 4 - Suburbios y casa de Eva
 4. Mecanicas del Juego 
 
 *El jugador puede disparar *El jugador puede lanzar granadas *El jugador puede desplazarse libremente en 2 dimensiones *EL jugador tiene 10 puntos de vida los cuales puede recuperar con items si llega a perder algunos *El jugador puede cubrirse detras de una pared o esquivar los ataques enemigos 
-
+![Imagen 1](https://github.com/user-attachments/assets/74411e80-9ea4-4641-8470-517c4868a78c)
 5. Personajes 
 
 *Eva 
@@ -72,6 +71,8 @@ Nivel 4 - Suburbios y casa de Eva
 *Gefe 3 
 *Jamon forma de Mounstruo 
 *Mounstruos 
+
+
 
 6. Plan del proyecto 
 [Copia de Diagrama de GANTT - ON  - Diagrama .pdf](https://github.com/user-attachments/files/20535103/Copia.de.Diagrama.de.GANTT.-.ON.-.Diagrama.pdf)
