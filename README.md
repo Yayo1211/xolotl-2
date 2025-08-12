@@ -53,25 +53,46 @@ Space - saltar
 
 3. Mundo del juego 
 
-Nivel 1 - Suburbios 
-Nivel 2 - Centro (parque) 
-Nivel 3 - Entrada a la ciudad (Puente) 
-Nivel 4 - Suburbios y casa de Eva  
+Nivel 1 - Suburbbios
+<img width="1920" height="1080" alt="completo" src="https://github.com/user-attachments/assets/93fa083d-dcca-4384-b7e3-7374bb2fad0c" />
+
+
+
+Nivel 2 - Borque
+<img width="1920" height="1080" alt="FR, Completo" src="https://github.com/user-attachments/assets/16efc9b9-7a9a-4801-855d-3e833dcb9333" />
+
+
 
 4. Mecanicas del Juego 
 
-*El jugador puede disparar *El jugador puede lanzar granadas *El jugador puede desplazarse libremente en 2 dimensiones *EL jugador tiene 10 puntos de vida los cuales puede recuperar con items si llega a perder algunos *El jugador puede cubrirse detras de una pared o esquivar los ataques enemigos 
+*El jugador puede disparar *El jugador puede lanzar granadas *El jugador puede desplazarse libremente en 2 dimensiones *EL jugador tiene 10 puntos de vida los cuales puede recuperar con items si llega a perder algunos *El jugador puede cubrirse detras de una pared o esquivar los ataques enemigos
+
 ![Imagen 1](https://github.com/user-attachments/assets/74411e80-9ea4-4641-8470-517c4868a78c)
+
 5. Personajes 
 
 *Eva 
-*Jamon 
-*Gefe 1 
-*Gefe 2 
-*Gefe 3 
-*Jamon forma de Mounstruo 
-*Mounstruos 
+![f31001d4-9a3c-422b-8dd0-8511c64520cb](https://github.com/user-attachments/assets/63d45fd8-9622-4bda-b318-ee0bdc26fca8)
+<img width="1280" height="256" alt="Saltar" src="https://github.com/user-attachments/assets/f99381d5-b3c5-464d-b982-adc2334c16e1" />
 
+
+*Jamon 
+![c0945c7a-5679-4590-9f0d-10121a7c3870](https://github.com/user-attachments/assets/87693d7a-ed7e-46fa-9177-d940b1ebf963)
+
+*Randar
+![Rana Cien Pies](https://github.com/user-attachments/assets/32734ed3-96be-4f85-8d24-10e595c9a04d)
+<img width="1280" height="768" alt="Rana" src="https://github.com/user-attachments/assets/2b21aa02-0f8e-417f-ab37-338bed0028a3" />
+
+
+
+*Jamon forma de Mounstruo 
+![25c50d3c-d3d0-49c0-b120-3f2ddcc9bad3](https://github.com/user-attachments/assets/5d7737b3-f91e-449f-acad-805b6eefd365)
+<img width="2048" height="2048" alt="sprites jamon" src="https://github.com/user-attachments/assets/6f2960ee-fb7e-4b5f-9094-11b4547b70ae" />
+
+
+*Mounstruos
+![2630e405-2b0d-462c-b72d-d2bee65f5b3b](https://github.com/user-attachments/assets/a63161ae-6921-46e6-9882-7fbb3ed272d0)
+<img width="1560" height="256" alt="Ojo ataque" src="https://github.com/user-attachments/assets/b6dd28d2-3cf7-47f4-8e22-2871c5d5c525" />
 
 
 6. Plan del proyecto 
